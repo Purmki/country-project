@@ -1,0 +1,21 @@
+
+body{
+
+background-color: rgb(200, 248, 24);
+}
+img{
+    margin-left: 80%
+}
+div{
+
+    margin: auto;
+    width: 30%;
+  border: 3px solid rgb(2, 0, 128);
+  padding: 10px;
+}
+form{
+    margin-left: 40%;
+}
+h1{
+    margin-left:40%;
+}
