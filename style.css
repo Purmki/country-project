@@ -1,12 +1,19 @@
-body{
-   background-color: rgb(144, 230, 230);
-}
+
+  body{
+    background-image: url(https://pbs.twimg.com/profile_images/1648446643895959552/WS3ZY5o6_400x400.jpg);
+  }
+  
 
 img{
     margin-left: 45%
 }
 
-h1{text-align: center;}
+h2{margin-left: 40%
+};
+
+footer{
+  text-align: center
+};
 
 form{
 text-align: center;}
