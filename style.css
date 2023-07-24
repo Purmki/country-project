@@ -8,12 +8,13 @@ img{
     margin-left: 45%
 }
 
-h2{margin-left: 40%
+h2{
+  margin-left: 40%
 };
 
 footer{
-  text-align: center
-};
+  text-align: center;
+}
 
 form{
 text-align: center;}
@@ -24,3 +25,4 @@ div{
   border: 3px solid rgb(14, 6, 7);
   padding: 10px;
 }
+
